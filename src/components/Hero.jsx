@@ -12,7 +12,7 @@ const About = () => {
   }, []); // ⬅️ agar hanya jalan sekali saat mount
 
   return (
-    <div className="about-container">
+    <div className="about-container" style={{ marginTop: "320px" }}>
       <div className="about">
         <p className="ab1">ABOUT & CONTACT</p>
 

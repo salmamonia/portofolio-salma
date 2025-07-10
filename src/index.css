@@ -126,7 +126,7 @@ body {
   margin-right: auto; /* Pushes nav to the right */
   padding-left: 0; /* Remove any left padding */
   position: relative;
-  left: -2rem; /* Compensate for container padding */
+  left: 0%; /* Compensate for container padding */
   left: -400px;
 }
 
